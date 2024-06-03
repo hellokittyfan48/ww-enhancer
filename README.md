@@ -1,5 +1,4 @@
-# [BROKEN] Wuthering Waves Object ESP
-- As of right now the DLL can't be injected for some people, working on a fix
+# Wuthering Waves Object ESP
 ![img](WW_SS.png)
 
 ## Usage
