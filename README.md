@@ -12,6 +12,6 @@
 - Please report any consistant crashes to me on Discord
 
 ## Contact
-- If you want to help or need help you can find my Discord [here](https://hellokittyfan48.github.io/)
+- If you want to help or need help you can join the Discord [here](https://hellokittyfan48.github.io/)
 
 #### Leave a 🌟 if you like it <3
