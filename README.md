@@ -1,20 +1,20 @@
 # Wuthering Waves Object ESP
 ![img](WW-SS.png)
 
-# Features
-## Player
+## Features
+### Player
 - Multihit
 - Fly
 - Player Speed
-## World
+### World
 - Dumb enemies
 - No enemy damage
-## Visuals
+### Visuals
 - ESP
 - Box
 - Tracer
 - Name
-## Misc
+### Misc
 - FOV Changer
 
 ## Usage
