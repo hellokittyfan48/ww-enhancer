@@ -1,5 +1,21 @@
 # Wuthering Waves Object ESP
-![img](WW_SS.png)
+![img](WW-SS.png)
+
+# Features
+## Player
+- Multihit
+- Fly
+- Player Speed
+## World
+- Dumb enemies
+- No enemy damage
+## Visuals
+- ESP
+- Box
+- Tracer
+- Name
+## Misc
+- FOV Changer
 
 ## Usage
 1. Disable all overlays
@@ -8,7 +24,6 @@
 4. Press `INSERT` to open the GUI
 
 ## Note
-- Aside from bugfixes and object updates I probably won't be updating this
 - Please report any consistant crashes to me on Discord
 
 ## Contact
