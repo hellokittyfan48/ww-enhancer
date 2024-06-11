@@ -1,4 +1,4 @@
-# Wuthering Waves Object ESP
+# Wuthering Waves Enhancer
 ![img](WW-SS.png)
 
 ## Features
