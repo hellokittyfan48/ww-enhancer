@@ -20,7 +20,7 @@
 ## Usage
 1. Disable all overlays
 2. Enter the world
-3. Inject using preferably [UDCE](https://www.unknowncheats.me/forum/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2022-bypass-anticheats-eac.html)
+3. Inject using the injector found in the Discord
 4. Press `INSERT` to open the GUI
 
 ## Note
