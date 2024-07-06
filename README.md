@@ -19,9 +19,8 @@
 
 ## Usage
 1. Disable all overlays
-2. Enter the world
-3. Inject using the injector found in the Discord
-4. Press `INSERT` to open the GUI
+2. Inject using the injector found in the Discord
+3. Press `INSERT` to open the GUI
 
 ## Note
 - Please report any consistant crashes to me on Discord
