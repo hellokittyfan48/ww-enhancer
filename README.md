@@ -14,6 +14,7 @@
 - Multihit
 - No Cooldown
 - Force Critical Hit
+- Infinite Stamine
 - No fall damage
 - Spider (Run up any wall)
 - Fly
