@@ -20,6 +20,8 @@
 - Fly
 - Noclip
 - Player Speed
+- Player Scale
+- Max Resonance Chain (C6 characters)
 ### World
 - Dumb enemies
 - World speed
