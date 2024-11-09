@@ -22,6 +22,7 @@
 - Player Speed
 - Player Scale
 - Max Resonance Chain (C6 characters)
+- Instant Special Energy
 ### World
 - Dumb enemies
 - World speed
@@ -41,7 +42,8 @@
 - Show FPS
 - FPS Unlocker
 - FOV Changer
-- UID Changer
+- Hide Damange Numbers
+- UID Hider
 - Peeking
 - Disable ACE
 - Change Menu Default Key
