@@ -27,6 +27,7 @@
 - Dumb enemies
 - World speed
 - Cooking animation skip
+- Enter restricted areas
 ### Visuals
 - ESP
 - Box
@@ -42,7 +43,6 @@
 - Show FPS
 - FPS Unlocker
 - FOV Changer
-- Hide Damange Numbers
 - UID Hider
 - Peeking
 - Disable ACE
